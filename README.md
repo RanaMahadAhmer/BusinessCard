@@ -1,3 +1,3 @@
-# android
+# Business Card
 
-A flutter project which presents a static Business Card od the author of this project.
+A flutter project which presents a static Business Card of the author of this project.
